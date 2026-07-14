@@ -1,0 +1,39 @@
+﻿body {
+    font-family: Arial;
+    background-color: #ffffff;
+}
+h1 {
+    color: #007BFF;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border-radius: 15%;
+    border: none;
+}
+
+th {
+    text-align: left;
+    background-color: #ffffff;
+    padding: 10px;
+}
+td {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: #f4eded;
+}
+
+tr:hover {
+    background-color: #cce0ff;
+}
