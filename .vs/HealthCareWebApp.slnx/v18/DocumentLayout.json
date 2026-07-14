@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\implementation\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\implementation\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\implementation\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\implementation\\healthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\ihealthrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|c:\\users\\310054\\source\\repos\\healthcarewebapp\\healthcarewebapp\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\310054\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|c:\\users\\310054\\source\\repos\\healthcarewebapp\\healthcarewebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|c:\\users\\310054\\source\\repos\\healthcarewebapp\\healthcarewebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\implementation\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\implementation\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\scripts\\jquery-3.7.0.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\scripts\\jquery-3.7.0.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\scripts\\jquery-3.7.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\scripts\\jquery-3.7.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\implementation\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\implementation\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\appointment\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\appointment\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\healthcarewebapp\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42014D91-37CD-4A73-BAD7-211D591F4D68}|HealthCareWebApp\\HealthCareWebApp.csproj|solutionrelative:healthcarewebapp\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\310054\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\310054\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-11T06:18:11.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\HealthRecordController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Controllers\\HealthRecordController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\HealthRecordController.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Controllers\\HealthRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:18:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Web.config",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Web.config",
+              "RelativeToolTip": "HealthCareWebApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-11T06:18:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:05:16.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T04:55:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\Implementation\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\AppointmentService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\Implementation\\AppointmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:33:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:11:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T05:00:07.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\Implementation\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\DoctorService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\Implementation\\DoctorService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:42:31.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T02:16:59.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T10:15:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\PatientService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\Implementation\\PatientService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\PatientService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\Implementation\\PatientService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T02:59:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "jquery-3.7.0.js",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Scripts\\jquery-3.7.0.js",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Scripts\\jquery-3.7.0.js",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Scripts\\jquery-3.7.0.js",
+              "RelativeToolTip": "HealthCareWebApp\\Scripts\\jquery-3.7.0.js",
+              "ViewState": "AgIAAAIaAAAAAAAAAADwvwoaAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-10T03:31:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery-3.7.0.slim.js",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Scripts\\jquery-3.7.0.slim.js",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Scripts\\jquery-3.7.0.slim.js",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Scripts\\jquery-3.7.0.slim.js",
+              "RelativeToolTip": "HealthCareWebApp\\Scripts\\jquery-3.7.0.slim.js",
+              "ViewState": "AgIAAAIaAAAAAAAAAADwvwoaAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-10T03:31:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Web.config",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Web.config",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-10T03:31:42.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IDoctorService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\IDoctorService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:38:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Update.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Patient\\Update.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Patient\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T02:30:03.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T03:57:29.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IDoctorRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:13:55.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T09:36:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T02:29:34.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IHealthRecordService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\IHealthRecordService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IHealthRecordService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\IHealthRecordService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:41:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\HealthRecordService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\Implementation\\HealthRecordService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\Implementation\\HealthRecordService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\Implementation\\HealthRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:51:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T02:29:31.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T02:29:26.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:22:36.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Service\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Service\\IAppointmentService.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Service\\IAppointmentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T19:12:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IHealthRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IHealthRecordRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\IHealthRecordRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IHealthRecordRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\IHealthRecordRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:15:57.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Models\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\HealthRecord.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Models\\HealthRecord.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T14:27:01.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Doctor.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Models\\Doctor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T14:17:31.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T03:40:01.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Global.asax.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Global.asax.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:54:39.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Repository\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Repository\\IAppointmentRepository.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Repository\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:32:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Data\\Database.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Data\\Database.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T03:41:13.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T10:22:54.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Models\\Appointment.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T03:44:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthCareWebApp\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T19:30:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-07T19:34:57.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Update.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Appointment\\Update.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Update.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Appointment\\Update.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T04:24:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T02:16:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApp\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthCareWebApp\\HealthCareWebApp\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "HealthCareWebApp\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T10:14:37.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
