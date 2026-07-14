@@ -1,0 +1,50 @@
+﻿@Model List<EmpWebApp.Models.Employee>
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2 class="text-primary">Employee Details</h2>
+    html.ActionLink("Create New Employee", "Create", "Employee", null, new { @class = "btn btn-primary" })
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    EmployeeId
+                <th>
+                    Name
+                </th>
+                <th>
+                   Gender
+                </th>
+                <th>
+                    Age
+                    </th>
+                <th>salary</th>
+</tr>
+        </thead>
+        <tbody>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>
+                        @emp.Id
+                    </td>
+                    <td>
+                        @emp.Name
+                    </td>
+                    <td>
+                        @emp.Gender
+                    </td>
+                    <td>
+                        @emp.Age
+                    </td>
+                    <td>
+                        @emp.Salary
+                    </td>
+                    <td class="d-flex">
+                        @Html.ActionLink("Edit", "Edit", "Employee", new { id = emp.Id }, new { @class = "btn btn-outline-primary me-2 margin-50" })
+                        @Html.ActionLink("Delete", "Delete", "Employee", new { id = emp.Id }, new { @class = "btn btn-outline-primary margin-50" })
+                    </td>
+                </tr>
+            }
+        <tbody>

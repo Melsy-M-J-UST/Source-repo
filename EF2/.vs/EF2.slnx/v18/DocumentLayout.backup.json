@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310054\\source\\repos\\EF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|c:\\users\\310054\\source\\repos\\ef2\\ef2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|solutionrelative:ef2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|C:\\Users\\310054\\source\\repos\\EF2\\ef2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|solutionrelative:ef2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|C:\\Users\\310054\\source\\repos\\EF2\\ef2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|solutionrelative:ef2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|C:\\Users\\310054\\source\\repos\\EF2\\ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4DED39-F147-4F73-8B34-EECBE6613492}|EF2\\EF2.csproj|solutionrelative:ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\App.config",
+              "RelativeDocumentMoniker": "EF2\\App.config",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\App.config",
+              "RelativeToolTip": "EF2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-04T06:14:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF2\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\AppDbContext.cs",
+              "RelativeToolTip": "EF2\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:13:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\Employee.cs",
+              "RelativeDocumentMoniker": "EF2\\Employee.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\Employee.cs",
+              "RelativeToolTip": "EF2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:12:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\Program.cs",
+              "RelativeDocumentMoniker": "EF2\\Program.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EF2\\EF2\\Program.cs",
+              "RelativeToolTip": "EF2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:10:53.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
