@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310054\\source\\repos\\EmployeeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\repo\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repo\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|c:\\users\\310054\\source\\repos\\employeeservice\\employeeservice\\repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\repo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\repo\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repo\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|c:\\users\\310054\\source\\repos\\employeeservice\\employeeservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\repo\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repo\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|C:\\Users\\310054\\source\\repos\\EmployeeService\\employeeservice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D3FCA-E48A-4F61-987C-960683F1DA77}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeService\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:56:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\repo\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeService\\repo\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:19:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\repo\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeService\\repo\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:15:30.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\repo\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeService\\repo\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:04:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\repo\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeService\\repo\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:02:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "EmployeeService\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:56:51.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\repo\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\repo\\MappingProfile.cs",
+              "RelativeToolTip": "EmployeeService\\repo\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:22:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeService\\Web.config",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Web.config",
+              "RelativeToolTip": "EmployeeService\\Web.config",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-04T06:57:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Data\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Data\\EmpDbContext.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Data\\EmpDbContext.cs",
+              "RelativeToolTip": "EmployeeService\\Data\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:55:06.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Employee.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\EmployeeService\\EmployeeService\\Employee.cs",
+              "RelativeToolTip": "EmployeeService\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:52:31.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

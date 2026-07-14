@@ -1,0 +1,2 @@
+C:\Users\310054\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\310054\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
