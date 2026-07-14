@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|c:\\users\\310054\\source\\repos\\healthcarewebapi\\healthcarewebapi.web\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|c:\\users\\310054\\source\\repos\\healthcarewebapi\\healthcarewebapi.web\\views\\appointment\\appbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\views\\appointment\\appbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HealthcareWebAPI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\service\\implementation\\patientapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\service\\implementation\\patientapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\service\\implementation\\doctorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\service\\implementation\\doctorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\areas\\helppage\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\areas\\helppage\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789182D-0433-4AC9-ACD9-ABE8FDC9EDBC}|HealthcareWebAPI\\HealthcareWebAPI.csproj|solutionrelative:healthcarewebapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A86892-A8FC-4DBB-B5F4-BDF22F5877A5}|HealthCareWebApi.shared\\HealthCareWebApi.shared.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.shared\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A86892-A8FC-4DBB-B5F4-BDF22F5877A5}|HealthCareWebApi.shared\\HealthCareWebApi.shared.csproj|solutionrelative:healthcarewebapi.shared\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\healthcarewebapi.web\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954EE597-ED96-40BB-AD33-631308F7D3B9}|HealthCareWebApi.web\\HealthCareWebApi.Web.csproj|solutionrelative:healthcarewebapi.web\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 174,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T04:37:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppById.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Appointment\\AppById.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Views\\Appointment\\AppById.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Appointment\\AppById.cshtml",
+              "RelativeToolTip": "HealthCareWebApi.web\\Views\\Appointment\\AppById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T01:00:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:45:22.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:04:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:05:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:20:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:28:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "HealthCareWebApi.web\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T12:25:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:47:49.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "HealthCareWebApi.web\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T10:11:28.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\HealthRecordController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Controllers\\HealthRecordController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\HealthRecordController.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Controllers\\HealthRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:04:41.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:16:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HealthcareWebAPI",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\HealthcareWebAPI.csproj",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\HealthcareWebAPI.csproj",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\HealthcareWebAPI.csproj",
+              "RelativeToolTip": "HealthcareWebAPI\\HealthcareWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-11T10:47:16.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientApiService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Service\\Implementation\\PatientApiService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Service\\Implementation\\PatientApiService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Service\\Implementation\\PatientApiService.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\Service\\Implementation\\PatientApiService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:53:03.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorApiService.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Service\\Implementation\\DoctorApiService.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Service\\Implementation\\DoctorApiService.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Service\\Implementation\\DoctorApiService.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\Service\\Implementation\\DoctorApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:52:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:23:49.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HelpController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:21:44.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Data\\Database.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:21:28.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:18:57.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:15:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.web\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.web\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthCareWebApi.web\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:15:25.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.shared\\Dtos\\PatientDto.cs",
+              "RelativeDocumentMoniker": "HealthCareWebApi.shared\\Dtos\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthCareWebApi.shared\\Dtos\\PatientDto.cs",
+              "RelativeToolTip": "HealthCareWebApi.shared\\Dtos\\PatientDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:54:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebAPI\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\310054\\source\\repos\\HealthcareWebAPI\\HealthcareWebAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthcareWebAPI\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:07:31.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

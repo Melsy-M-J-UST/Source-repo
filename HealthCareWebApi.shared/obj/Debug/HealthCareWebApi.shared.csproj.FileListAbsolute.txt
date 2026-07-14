@@ -1,0 +1,6 @@
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\bin\Debug\HealthCareWebApi.shared.dll
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\bin\Debug\HealthCareWebApi.shared.pdb
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\obj\Debug\HealthCareWebApi.shared.csproj.AssemblyReference.cache
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\obj\Debug\HealthCareWebApi.shared.csproj.CoreCompileInputs.cache
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\obj\Debug\HealthCareWebApi.shared.dll
+C:\Users\310054\source\repos\HealthcareWebAPI\HealthCareWebApi.shared\obj\Debug\HealthCareWebApi.shared.pdb
